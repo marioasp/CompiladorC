@@ -1,0 +1,103 @@
+{'type': 'PALAVRA RESERVADA', 'value': 'int'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'main'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'OPERADOR', 'value': '{'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'COMENTARIO TIPO A - UMA LINHA', 'value': '//teste de comentario'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'COMENTARIO TIPO B - N LINHAS', 'value': '/* teste\nde\nmais \nde \numa\nlinha*/'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA', 'value': 'int'}
+{'type': 'OPERADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'a'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA', 'value': 'int'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'b'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA', 'value': 'int'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'c'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'NUMERAL', 'value': '849849849848489'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA STDIO.H', 'value': 'printf'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'TEXTO', 'value': '"digite o primeiro valor"'}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA STDIO.H', 'value': 'scanf'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'OPERADOR', 'value': '%'}
+{'type': 'TEXTO', 'value': '"s"'}
+{'type': 'SEPARADOR', 'value': ','}
+{'type': 'VARIAVEL', 'value': 'a'}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA STDIO.H', 'value': 'printf'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'TEXTO', 'value': '"digite o segundo valor"'}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA STDIO.H', 'value': 'scanf'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'OPERADOR', 'value': '%'}
+{'type': 'TEXTO', 'value': '"s"'}
+{'type': 'SEPARADOR', 'value': ','}
+{'type': 'VARIAVEL', 'value': 'b'}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'ERRO TIPO A - QUE CARACTERE E ESSE?', 'value': 'aoiusdhiuhsdi@aiudhaiushdai'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'ERRO TIPO B - ISSO NAO FAZ SENTIDO', 'value': '2a'}
+{'type': 'OPERADOR', 'value': '='}
+{'type': 'NUMERAL', 'value': '0'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'VARIAVEL', 'value': 'c'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'OPERADOR', 'value': '='}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'a'}
+{'type': 'OPERADOR', 'value': ' '}
+{'type': 'OPERADOR', 'value': '-'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'b'}
+{'type': 'OPERADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA STDIO.H', 'value': 'printf'}
+{'type': 'OPERADOR', 'value': '('}
+{'type': 'OPERADOR', 'value': '%'}
+{'type': 'TEXTO', 'value': '"o resultado e i"'}
+{'type': 'SEPARADOR', 'value': ','}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'VARIAVEL', 'value': 'c'}
+{'type': 'OPERADOR', 'value': ')'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'PALAVRA RESERVADA', 'value': 'return'}
+{'type': 'SEPARADOR', 'value': ' '}
+{'type': 'NUMERAL', 'value': '0'}
+{'type': 'SEPARADOR', 'value': ';'}
+{'type': 'SEPARADOR', 'value': '\n'}
+{'type': 'SEPARADOR', 'value': '\n'}

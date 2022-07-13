@@ -1,0 +1,10 @@
+
+int a;
+int b;
+int c;
+int d;
+float e;
+char g;
+
+c == a + d;
+c = a - b;
